@@ -1,6 +1,6 @@
 ## My Portfolio
 
-<!--
+
 I'm Tasneem Hazem Computer Science student interested in Full Stack Web Development and App Development.
 
 ## About Me 

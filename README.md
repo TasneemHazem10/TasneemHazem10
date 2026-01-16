@@ -1,16 +1,22 @@
-## Hi there 👋
+## My Portfolio
 
 <!--
-**TasneemHazem10/TasneemHazem10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tasneem Hazem Computer Science student interested in Full Stack Web Development and App Development.
 
-Here are some ideas to get you started:
+## About Me 
+I'm passionate about creating interactive Web and Mobile applications, 
+Developing skills in Full Stack Web Development and App Development through real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frontend
+- HTML, CSS, JavaScript 
+- React.js
+- React Native
+
+## Backend
+- PHP (Native)
+- Laravel FrameWork
+
+## Tools
+- Git & GitHub 
+- VS Code
+

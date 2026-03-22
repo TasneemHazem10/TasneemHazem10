@@ -15,20 +15,20 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
-> *"Passionate about creating interactive Web and Mobile applications — turning ideas into real, working products."*
+> *"Passionate about creating interactive Web and Mobile applications"*
 
-- 🎓 **Computer Science** student with a focus on Full Stack Development
-- 🌐 Building skills through **real-world projects**
-- 📱 Interested in both **Web** and **Mobile** app development
-- 🚀 Always exploring new technologies and frameworks
+- Computer Science student with a focus on Full Stack Development
+- Building skills through real-world projects
+- Interested in both Web and Mobile app development
+- Always exploring new technologies and frameworks
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -37,13 +37,13 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Environment
+### Tools & Environment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Status 
 
 <div align="center">
 
@@ -67,15 +67,6 @@
 
 </div>
 
----
-
-## Contribution
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/TasneemHazem10/TasneemHazem10/output/github-contribution-grid-snake-dark.svg)
-
-</div>
 
 
 
